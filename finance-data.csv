@@ -1,0 +1,49 @@
+date,amount,category,description
+01-01-2024,1200.00,Income,Freelance Payment
+03-01-2024,75.50,Expense,Coffee
+05-01-2024,200.00,Expense,Groceries
+08-01-2024,450.00,Income,Online Sale
+10-01-2024,90.00,Expense,Restaurant
+15-01-2024,300.00,Income,Dividend
+18-01-2024,60.00,Expense,Taxi Fare
+20-01-2024,100.00,Expense,Electricity Bill
+25-01-2024,1100.00,Income,Salary Advance
+30-01-2024,200.00,Expense,Internet Bill
+01-02-2024,50.00,Expense,Parking Fee
+05-02-2024,150.00,Income,Gig Payment
+10-02-2024,30.00,Expense,Snacks
+14-02-2024,70.00,Expense,Valentine's Day Gift
+20-02-2024,300.00,Income,Freelance Payment
+25-02-2024,40.00,Expense,Public Transport
+01-03-2024,100.00,Expense,Stationery
+05-03-2024,1500.00,Income,Salary Credited
+10-03-2024,50.00,Expense,Subscription Service
+15-03-2024,90.00,Expense,Gas Bill
+20-03-2024,200.00,Income,Stock Dividend
+25-03-2024,60.00,Expense,Pet Supplies
+01-04-2024,500.00,Income,Bonus
+05-04-2024,100.00,Expense,Water Bill
+10-04-2024,75.00,Expense,Books
+15-04-2024,200.00,Income,Freelance Payment
+20-04-2024,45.00,Expense,Cinema Ticket
+25-04-2024,300.00,Expense,Shopping
+01-05-2024,1500.00,Income,Salary Credited
+05-05-2024,100.00,Expense,Electricity Bill
+10-05-2024,85.00,Expense,Dining Out
+15-05-2024,400.00,Income,Freelance Payment
+20-05-2024,150.00,Expense,Clothing
+25-05-2024,120.00,Expense,Internet Bill
+01-06-2024,1800.00,Income,Salary Credited
+05-06-2024,100.00,Expense,Phone Bill
+10-06-2024,50.00,Expense,Snacks
+15-06-2024,250.00,Income,Stock Dividend
+20-06-2024,60.00,Expense,Public Transport
+25-06-2024,100.00,Expense,Parking Fee
+01-07-2024,2000.00,Income,Salary Credited
+05-07-2024,150.00,Expense,Gifts
+10-07-2024,75.00,Expense,Coffee
+13-07-2024,31689.83,Income,Salary Credited to Account
+13-07-2024,150.00,Expense,5Kg Potato from Pincode
+13-07-2024,150.00,Income,Pincode Refund
+13-07-2024,210.00,Expense,Potato and Onion
+15-07-2024,445.00,Expense,Groceries
